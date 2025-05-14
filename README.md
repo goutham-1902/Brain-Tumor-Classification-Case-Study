@@ -17,7 +17,7 @@ Data Sources
 
     -   1,500 tumorous and 1,500 non-tumorous MRI scans; 60 unlabeled images for prediction.
 
-    -   Used for evaluating logistic regression, SVM, Random Forest, XGBoost, a simple feed-forward network, and a small CNN.
+    -   Used for evaluating logistic regression, SVM, Random Forest and a simple feed-forward network.
 
 -   **Multiclass MRI Dataset**
 
